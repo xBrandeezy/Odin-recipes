@@ -1,1 +1,1 @@
-# Odin-recipes
+My first project using Odin Project and linux on VM.
